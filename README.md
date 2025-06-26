@@ -10,8 +10,9 @@ This work addresses the critical privacy risk of code leakage via prompts transm
 2. **Preserving suggestion relevance** - Maintaining useful and accurate code suggestions
 
 
-<img src="assets/TrainCodeCloak.png" alt="CodeCloak's training process" width="500" height="300">
-
+<div align="center">
+<img src="assets/TrainCodeCloak.png" alt="CodeCloak's training process" width="70%">
+</div>
 ## Repository Structure
 
 ```
