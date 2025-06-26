@@ -13,6 +13,7 @@ This work addresses the critical privacy risk of code leakage via prompts transm
 <div align="center">
 <img src="assets/TrainCodeCloak.png" alt="CodeCloak's training process" width="70%">
 </div>
+
 ## Repository Structure
 
 ```
