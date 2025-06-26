@@ -51,7 +51,7 @@ from TrainEnv import train_model
 
 # Start training with default hyperparameters
 # Agent learns to balance code leakage mitigation and suggestion preservation
-train_model()
+train_model() 
 ```
 
 
